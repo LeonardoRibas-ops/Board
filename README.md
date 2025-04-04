@@ -31,4 +31,4 @@ O **TaskBoard** tem como objetivo proporcionar um ambiente simples e eficiente p
 Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/LeonardoRibas-ops/Board.git
+git clone https://github.com/LeonardoRibas-ops/TaskBoard.git
