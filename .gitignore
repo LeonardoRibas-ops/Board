@@ -1,1 +1,10 @@
+# Ignorar arquivos de compilação e IDEs
+*.class
+.idea/
+.vscode/
+target/
+bin/
+
+# Ignorar arquivos de configuração de banco de dados (sensíveis)
+db.properties
 
